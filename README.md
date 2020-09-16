@@ -1,5 +1,7 @@
 # [Alibaba Cloud Associate | Big Data Notes](https://atulkamble.github.io/AlibabaCloudAssociateBigData/)
 
+Alibaba Cloud provides a range of cost effective, powerful products and services for IT service providers at every stage of the big data lifecycle.
+
 **Cloud Enterprise Network (CEN)** - makes it easy for you to build reliable private networks, allowing for secure and seamless communication across the region
 
 High bandwidth **Express Connect**-based VPC interconnection
@@ -20,6 +22,10 @@ development environment so you can safely test and debug your code.
 big data processing solution, **Elastic MapReduce (E-MapReduce)** is also deployed. It is built on our **Elastic Compute Service (ECS)** and is based on the open source Apache Hadoop and Apache Spark processing tools.
 
 **DataV** is a powerful data visualization tool. You can publish different projects for different enterprise customers as web pages, with secured password or access tokens, to help your logistics customers better understand relationships, patterns and trends in their data. DataV also provides a wide range of templates for all types of scenarios, which makes it easy for your development team to design, customize and render a range of high-quality representations without the aid of a designer.
+
+**Machine Learning Platform** for AI to help automate some of your big data analysis and mining requirements. Customer information feeds back into your platform and our machine learning algorithms use this data to further improve your big data analysis.
+
+**Data Lake Analytics** – an interactive analytics service that does not require any ETL tools. Instead, it utilizes standard server architecture to allow you to retrieve and analyze data from multiple sources and locations. It is billed based on usage and need, so you can effectively analyze your data stored in the cloud at a very low cost. Your IT business is now racing ahead of the competition thanks to the feature-rich and intuitive software solutions it provides to the world’s logistics companies. Your business has optimized its resources, operational efficiencies and customer experience thanks to the power of big data and Alibaba Cloud’s extensive suite of products, services and support.
 
 You can use the [editor on GitHub](https://github.com/atulkamble/AlibabaCloudAssociateBigData/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
