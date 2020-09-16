@@ -26,39 +26,3 @@ big data processing solution, **Elastic MapReduce (E-MapReduce)** is also deploy
 **Machine Learning Platform** for AI to help automate some of your big data analysis and mining requirements. Customer information feeds back into your platform and our machine learning algorithms use this data to further improve your big data analysis.
 
 **Data Lake Analytics** – an interactive analytics service that does not require any ETL tools. Instead, it utilizes standard server architecture to allow you to retrieve and analyze data from multiple sources and locations. It is billed based on usage and need, so you can effectively analyze your data stored in the cloud at a very low cost. Your IT business is now racing ahead of the competition thanks to the feature-rich and intuitive software solutions it provides to the world’s logistics companies. Your business has optimized its resources, operational efficiencies and customer experience thanks to the power of big data and Alibaba Cloud’s extensive suite of products, services and support.
-
-You can use the [editor on GitHub](https://github.com/atulkamble/AlibabaCloudAssociateBigData/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atulkamble/AlibabaCloudAssociateBigData/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
