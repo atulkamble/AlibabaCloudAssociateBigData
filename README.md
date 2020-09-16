@@ -4,6 +4,9 @@ Cloud Enterprise Network (CEN) - makes it easy for you to build reliable private
 
 High bandwidth Express Connect-based VPC interconnection
 
+Anti-DDoS security service 
+- the use of VPCs notonly ensures the security and reliability of your data but the VPC interconnection also guarantees the quality of communication across regions. 
+- means your data is free to move across your network with low latency, high availability and robust security provisions in place to protect this information.
 
 You can use the [editor on GitHub](https://github.com/atulkamble/AlibabaCloudAssociateBigData/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
