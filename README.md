@@ -10,6 +10,9 @@ High bandwidth **Express Connect**-based VPC interconnection
 
 **IoT Platform** is also deployed, which provides secure and stable communication to the edge of your network. The low latency of the data transmission provides accurate predictions for parcel delivery times in real-time.
 
+**Object Storage Service (OSS)**, which is an easyto- use service that enables you to store, backup and archive large amounts of data on the cloud. OSS acts as an encrypted central repository from where files can be securely accessed from around the globe and guarantees up to 99.9% availability.
+
+
 You can use the [editor on GitHub](https://github.com/atulkamble/AlibabaCloudAssociateBigData/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
