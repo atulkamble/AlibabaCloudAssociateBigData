@@ -26,3 +26,9 @@ big data processing solution, **Elastic MapReduce (E-MapReduce)** is also deploy
 **Machine Learning Platform** for AI to help automate some of your big data analysis and mining requirements. Customer information feeds back into your platform and our machine learning algorithms use this data to further improve your big data analysis.
 
 **Data Lake Analytics** – an interactive analytics service that does not require any ETL tools. Instead, it utilizes standard server architecture to allow you to retrieve and analyze data from multiple sources and locations. It is billed based on usage and need, so you can effectively analyze your data stored in the cloud at a very low cost. Your IT business is now racing ahead of the competition thanks to the feature-rich and intuitive software solutions it provides to the world’s logistics companies. Your business has optimized its resources, operational efficiencies and customer experience thanks to the power of big data and Alibaba Cloud’s extensive suite of products, services and support.
+
+# Technical Author Profile (Study Guide + Notes):
+- [LinkedIn: atuljkamble](https://www.linkedin.com/in/atuljkamble) 
+- [Twitter: atul_kamble](https://www.twitter.com/atul_kamble)
+- [Github: atulkamble](https://www.github.com/atulkamble)
+- [Medium: atul_kamble](https://medium.com/@atul_kamble)
