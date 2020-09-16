@@ -1,8 +1,8 @@
 # [Alibaba Cloud Associate | Big Data Notes](https://atulkamble.github.io/AlibabaCloudAssociateBigData/)
 
-Cloud Enterprise Network (CEN) - makes it easy for you to build reliable private networks, allowing for secure and seamless communication across the region/
+Cloud Enterprise Network (CEN) - makes it easy for you to build reliable private networks, allowing for secure and seamless communication across the region
 
-High bandwidth Express Connect-based VPC interconnection/
+High bandwidth Express Connect-based VPC interconnection
 
 
 You can use the [editor on GitHub](https://github.com/atulkamble/AlibabaCloudAssociateBigData/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
