@@ -1,12 +1,14 @@
 # [Alibaba Cloud Associate | Big Data Notes](https://atulkamble.github.io/AlibabaCloudAssociateBigData/)
 
-Cloud Enterprise Network (CEN) - makes it easy for you to build reliable private networks, allowing for secure and seamless communication across the region
+**Cloud Enterprise Network (CEN)** - makes it easy for you to build reliable private networks, allowing for secure and seamless communication across the region
 
-High bandwidth Express Connect-based VPC interconnection
+High bandwidth **Express Connect**-based VPC interconnection
 
-Anti-DDoS security service 
+**Anti-DDoS security service** 
 - the use of VPCs notonly ensures the security and reliability of your data but the VPC interconnection also guarantees the quality of communication across regions. 
 - means your data is free to move across your network with low latency, high availability and robust security provisions in place to protect this information.
+
+**IoT Platform** is also deployed, which provides secure and stable communication to the edge of your network. The low latency of the data transmission provides accurate predictions for parcel delivery times in real-time.
 
 You can use the [editor on GitHub](https://github.com/atulkamble/AlibabaCloudAssociateBigData/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
