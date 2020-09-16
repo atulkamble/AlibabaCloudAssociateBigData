@@ -12,6 +12,8 @@ High bandwidth **Express Connect**-based VPC interconnection
 
 **Object Storage Service (OSS)**, which is an easyto- use service that enables you to store, backup and archive large amounts of data on the cloud. OSS acts as an encrypted central repository from where files can be securely accessed from around the globe and guarantees up to 99.9% availability.
 
+**DataWorks** is our leading big data platform, which provides one-stop big data development, data permission management, offline job scheduling and many other features, all straight out of the box. This means that your team can use DataWorks with minimal training. This solution also provides a separate production and
+development environment so you can safely test and debug your code.
 
 You can use the [editor on GitHub](https://github.com/atulkamble/AlibabaCloudAssociateBigData/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
