@@ -15,6 +15,12 @@ High bandwidth **Express Connect**-based VPC interconnection
 **DataWorks** is our leading big data platform, which provides one-stop big data development, data permission management, offline job scheduling and many other features, all straight out of the box. This means that your team can use DataWorks with minimal training. This solution also provides a separate production and
 development environment so you can safely test and debug your code.
 
+**MaxCompute** - largescale data warehousing service, to seamlessly migrate your existing services to the cloud and shorten your data processing times significantly. MaxCompute supports various data importing solutions and distributed computing models, allowing you to effectively query massive datasets, reduce production costs, and ensure data security
+
+big data processing solution, **Elastic MapReduce (E-MapReduce)** is also deployed. It is built on our **Elastic Compute Service (ECS)** and is based on the open source Apache Hadoop and Apache Spark processing tools.
+
+**DataV** is a powerful data visualization tool. You can publish different projects for different enterprise customers as web pages, with secured password or access tokens, to help your logistics customers better understand relationships, patterns and trends in their data. DataV also provides a wide range of templates for all types of scenarios, which makes it easy for your development team to design, customize and render a range of high-quality representations without the aid of a designer.
+
 You can use the [editor on GitHub](https://github.com/atulkamble/AlibabaCloudAssociateBigData/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
